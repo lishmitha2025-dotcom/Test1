@@ -1,1 +1,2 @@
 Today my first git class
+second day class
